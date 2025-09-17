@@ -129,9 +129,3 @@
 
 
 
-if (score < 1) {
-  document.querySelector('.message').textContent = '💥 You lost!';
-  document.querySelector('.number').textContent = secretNumber;
-  document.querySelector('.guess').disabled = true;
-  document.querySelector('.check').disabled = true;
-}
