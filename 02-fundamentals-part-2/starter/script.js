@@ -601,11 +601,11 @@
 // input.addEventListener("keydown", function (event) {
 //   console.log(`Key pressed ${event.key}`);
 
-//   if (event.key === "Enter") {
-//     display.textContent = `You pressed Enter! Text was ${input.value}`;
-//     input.value = ""; //clear input
-//   }
-// });
+  // if (event.key === "Enter") {
+  //   display.textContent = `You pressed Enter! Text was ${input.value}`;
+  //   input.value = ""; //clear input
+  // }
+//});
 
 
 
