@@ -221,6 +221,3 @@ class App {
 const app = new App();
 console.log('Hour 2 complete!');
 
-/* wow */
-/* wow */
-/* wow */
